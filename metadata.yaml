@@ -25,6 +25,8 @@ creator:
     gutenberg_agent_id: '38884'
     url: http://www.gutenberg.org/2009/agents/38884
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37502#Climbing-in-The-British-Isles-Vol.-IIWales-and-Ireland
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2011-09-21'
 gutenberg_type: Text
